@@ -1,0 +1,26 @@
+{
+  "idSave": 174,
+  "isFirstSession": false,
+  "language": "ru",
+  "promptDone": true,
+  "_soundAmount": 0.5,
+  "_musicAmount": 0.1,
+  "_playerLVL": 11,
+  "_playerSwordCount": 6,
+  "_playerSkin": 9,
+  "_playerCoins": 142,
+  "_playerRotationSpeed": 150,
+  "_bestKill": 5,
+  "_skins": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+  ]
+}
